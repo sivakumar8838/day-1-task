@@ -1,0 +1,30 @@
+HTTP/1.1
+
+1.The first usable version of HTTP was created in 1997
+
+2.HTTP/1.1 loads resources one after the other, so if one 
+resource cannot be loaded, it blocks all the other resources behind it.
+
+3.HTTP stands for hypertext transfer protocol, and it is the basis for 
+almost all web applications
+
+4.Because it went through several stages of development, this first version
+of HTTP was called HTTP/1.1
+
+5.This version is still in use on the web
+
+
+HTTP/2
+
+1.In 2015, a new version of HTTP called HTTP/2 was created
+
+2.HTTP/2 solves several problems that the creators of HTTP/1.1 did not anticipate
+
+3.HTTP/2 does this by splitting data into binary-code messages and numbering these 
+messages so that the client knows which stream each binary message belongs to.
+
+4.To speed up web performance, both HTTP/1.1 and HTTP/2 compress HTTP messages 
+to make them smaller
+
+5.Cloudflare supports all features of HTTP/2. Web properties on Cloudflare can turn 
+on HTTP/2 for free with one click. Cloudflare supports HTTP/3 in addition to HTTP/2.
